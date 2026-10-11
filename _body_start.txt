@@ -132,7 +132,7 @@ BODY AT 4562
 </svg>
 </span>
 </button>
-<a href="https://app.uniswap.org/#/swap?outputCurrency=0x759f8b83db57033aed95545694f6ada480b6e987" target="_blank" rel="noopener noreferrer" class="group/buy relative ml-1 overflow-hidden rounded-lg bg-gradient-to-r from-[#C9A96E] to-[#8B6914] px-4 py-1.5 text-sm font-semibold text-[#0a0510] shadow-[0_4px_18px_-6px_rgba(201,169,110,0.5)] transition-colors duration-300 hover:from-[#f5d280] hover:to-[#C9A96E] outline-none focus-visible:ring-2 focus-visible:ring-[#f5d280]/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[#0a0510]" tabindex="0" style="opacity:0;transform:translateY(-8px)">
+<a href="https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=CnvQ6v525Mx4FSNNYwXVaiH2wboEMVdjxPhUjkpqpump" target="_blank" rel="noopener noreferrer" class="group/buy relative ml-1 overflow-hidden rounded-lg bg-gradient-to-r from-[#C9A96E] to-[#8B6914] px-4 py-1.5 text-sm font-semibold text-[#0a0510] shadow-[0_4px_18px_-6px_rgba(201,169,110,0.5)] transition-colors duration-300 hover:from-[#f5d280] hover:to-[#C9A96E] outline-none focus-visible:ring-2 focus-visible:ring-[#f5d280]/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[#0a0510]" tabindex="0" style="opacity:0;transform:translateY(-8px)">
 <span aria-hidden="true" class="pointer-events-none absolute inset-0 rounded-lg ring-1 ring-inset ring-[rgba(245,210,128,0.5)]">
 </span>
 <span aria-hidden="true" class="pointer-events-none absolute inset-y-0 -left-full w-1/2 -skew-x-12 bg-[linear-gradient(90deg,transparent,rgba(255,255,255,0.55),transparent)] transition-transform duration-700 ease-out group-hover/buy:translate-x-[300%]">
@@ -218,7 +218,7 @@ BODY AT 4562
 </svg>
 </span>
 </a>
-<a href="https://app.uniswap.org/#/swap?outputCurrency=0x759f8b83db57033aed95545694f6ada480b6e987" target="_blank" rel="noopener noreferrer" aria-label="Uniswap" class="group relative flex size-11 items-center justify-center rounded-full text-ivory/55 transition-colors duration-300 outline-none hover:text-[#C9A96E] focus-visible:text-[#C9A96E]" tabindex="0" style="opacity:0;filter:blur(4px);transform:translateX(28px) scale(0.8)">
+<a href="https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=CnvQ6v525Mx4FSNNYwXVaiH2wboEMVdjxPhUjkpqpump" target="_blank" rel="noopener noreferrer" aria-label="Uniswap" class="group relative flex size-11 items-center justify-center rounded-full text-ivory/55 transition-colors duration-300 outline-none hover:text-[#C9A96E] focus-visible:text-[#C9A96E]" tabindex="0" style="opacity:0;filter:blur(4px);transform:translateX(28px) scale(0.8)">
 <span aria-hidden="true" class="absolute inset-0 overflow-hidden rounded-full border border-[#C9A96E]/20 bg-[#0a0510]/55 shadow-[inset_0_1px_0_rgba(245,210,128,0.08),0_4px_14px_rgba(0,0,0,0.45)] backdrop-blur-md transition-all duration-300 group-hover:border-[#C9A96E]/55 group-hover:bg-[#0a0510]/70 group-hover:shadow-[inset_0_1px_0_rgba(245,210,128,0.18),0_0_22px_rgba(201,169,110,0.4),0_4px_18px_rgba(0,0,0,0.5)] group-focus-visible:border-[#C9A96E]/55 group-focus-visible:bg-[#0a0510]/70">
 <span aria-hidden="true" class="pointer-events-none absolute inset-0 -translate-x-full opacity-0 transition-all duration-[900ms] ease-out group-hover:translate-x-full group-hover:opacity-100" style="background:linear-gradient(105deg, transparent 38%, rgba(245,210,128,0.22) 50%, transparent 62%)">
 </span>
